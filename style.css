@@ -1,8 +1,9 @@
 
-body { background-color: red;
-
-  
-  
-  
+body { 
+background-color: red;  
 }
 
+div.superior{
+border:10px solid black;
+background-color:black;
+}
