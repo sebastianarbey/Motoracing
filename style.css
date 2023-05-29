@@ -1,12 +1,13 @@
 
 body { 
 background-color: red;  
+background-image:url("https://cdn.glitch.global/d08021c1-a129-48a2-a296-20cdcf78faa1/de741a70-1cb3-402d-8e7b-0a6526c02f53.image.png?v=1685397361312");
 }
 
 div.superior{
-border:10px solid black;
-background-color:black;
+border:1px solid black;
+
 height:150px;
-width:1200px;
-margin:;
+width:100%;
+
 }
