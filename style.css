@@ -19,10 +19,12 @@ text-align:center;
 margin:200px;
 }
 h1{text-align:center;
+
 }
 
 img.botones {
 height:300px;
 width:400px;
 margin:30px;
+float: left;
 }
