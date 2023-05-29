@@ -6,6 +6,7 @@ background-image:url("https://cdn.glitch.global/d08021c1-a129-48a2-a296-20cdcf78
 
 div.superior{
 border:1px solid black;
+box-shadow:
 color:white;
 height:150px;
 width:100%;
@@ -15,4 +16,7 @@ div.categorias{
 color:white;
 text-align:center;
 margin:200px;
+}
+h1{text-align:center;
+
 }
