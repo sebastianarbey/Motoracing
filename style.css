@@ -34,10 +34,12 @@ height:150px;
 width:200px;
 }
 nav.blogs{
+margin:-150px;
 margin-bottom:50px;
-text-align:center;
+
 
 }
 h2.blogs{
-text-align:center;
+margin:50px;
+float: right;
 }
