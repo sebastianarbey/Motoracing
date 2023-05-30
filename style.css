@@ -1,6 +1,6 @@
 
 body { 
- 
+font-family: Arial;
 background-image:url("https://cdn.glitch.global/d08021c1-a129-48a2-a296-20cdcf78faa1/de741a70-1cb3-402d-8e7b-0a6526c02f53.image.png?v=1685397361312");
 }
 
@@ -17,6 +17,7 @@ div.categorias{
 color:white;
 text-align:center;
 margin:200px;
+
 }
 h1{text-align:center;
 
@@ -31,6 +32,7 @@ float: left;
 img.logos{
 height:150px;
 width:200px;
+
 }
 nav.blogs{
 margin:-150px;
