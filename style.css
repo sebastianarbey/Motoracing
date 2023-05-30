@@ -1,14 +1,13 @@
 
 body { 
-background-color: red;  
+ 
 background-image:url("https://cdn.glitch.global/d08021c1-a129-48a2-a296-20cdcf78faa1/de741a70-1cb3-402d-8e7b-0a6526c02f53.image.png?v=1685397361312");
 }
 
 div.superior{
 
-border:1px solid black;
+border:0px solid red;
 background-color :rgb(255, 0, 0, 0.2);
- 
 color:white;
 height:150px;
 width:100%;
@@ -35,14 +34,17 @@ width:200px;
 }
 nav.blogs{
 margin:-150px;
-margin-bottom:80px;
-padding:30px;
+padding:50px;
 
 }
 h2.blogs{
 border:1px solid black;
-margin:5px;
+margin:auto;
 text-align:center;
-
+width:180px;
+float: left;
+}
+div.blogs{
+margin-left:800px;
 
 }
