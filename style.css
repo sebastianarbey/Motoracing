@@ -55,8 +55,12 @@ margin-left:800px;
 
 
 footer{
-t
-border: 100px solid black;
+background-image:url("https://cdn.glitch.global/d08021c1-a129-48a2-a296-20cdcf78faa1/a25041a8-3efc-4c2c-9b7a-1135f3f6bc7b.image.png?v=1685472135995");
+  background-repeat: no-repeat;
+width:1900px;
+height:200px;
+margin-top:1000px;
+border: 1px solid black;
 
 
 }
