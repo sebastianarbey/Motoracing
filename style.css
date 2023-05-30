@@ -34,12 +34,15 @@ height:150px;
 width:200px;
 }
 nav.blogs{
+
 margin:-150px;
 margin-bottom:50px;
-
+padding:30px;
 
 }
 h2.blogs{
-margin:50px;
-float: right;
+border:1px solid black;
+margin:20px;
+text-align:center;
+float: left;
 }
