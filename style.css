@@ -3,12 +3,12 @@ body {
 font-family: ;
 }
 
-section.container{
+div.container{
 background-image:url("https://cdn.glitch.global/d08021c1-a129-48a2-a296-20cdcf78faa1/de741a70-1cb3-402d-8e7b-0a6526c02f53.image.png?v=1685397361312");
+height:800px;
 }
 
 div.superior{
-
 border:0px solid red;
 background-color :rgb(255, 0, 0, 0.2);
 color:white;
@@ -20,8 +20,9 @@ div.categorias{
 color:white;
 text-align:center;
 margin:200px;
-
 }
+
+div
 h1{text-align:center;
 
 }
