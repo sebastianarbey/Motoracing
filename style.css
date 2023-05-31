@@ -1,5 +1,6 @@
 
-body { 
+body { margin:auto;
+padding:auto;
 font-family: ;
 }
 
@@ -61,9 +62,9 @@ margin-left:800px;
 footer{
 
  background-image:url("https://cdn.glitch.global/d08021c1-a129-48a2-a296-20cdcf78faa1/wave%20(2).svg?v=1685473175761");
-width:1900px;
+width:1100px;
 height:250px;
-margin-top:1000px;
+margin-top:1100px;
 
 }
 div.fotos{
@@ -72,6 +73,6 @@ margin-top:800px;
 
 }
 
-@media (max-width:1200px)
+
 
  
