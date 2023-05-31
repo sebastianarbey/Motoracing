@@ -1,14 +1,16 @@
 
-body {border: 10px solid black ;
+body {border: 1px solid black ;
  margin:auto;
 padding:auto;
 font-family: ;
 }
 
 div.container{
-background-image:url("https://cdn.glitch.global/d08021c1-a129-48a2-a296-20cdcf78faa1/de741a70-1cb3-402d-8e7b-0a6526c02f53.image.png?v=1685397361312");
+background-image:url("https://cdn.glitch.global/d08021c1-a129-48a2-a296-20cdcf78faa1/895bfdc6-82ff-491a-bcf6-98facd2868a5.image.png?v=1685541592707");
+background-size: 100%;
+background-repeat: no-repeat;
 height:900px;
-width:1310px;
+width:1335px;
 
 }
 
@@ -43,7 +45,7 @@ width:200px;
 
 }
 nav.blogs{
-border: 10px solid black ;
+
 width:480px;
 margin:-150px;
 padding:50px;
@@ -66,7 +68,7 @@ margin-left:800px;
 
 footer{
 
- background-image:url("https://cdn.glitch.global/d08021c1-a129-48a2-a296-20cdcf78faa1/wave%20(2).svg?v=1685473175761");
+ background-image:url("");
 width:1100px;
 height:250px;
 margin-top:1100px;
