@@ -64,12 +64,15 @@ margin-left:800px;
 
 }
 
+h3{
+text-align:center;
+color:white;
 
+}
 
 footer{
-
  background-image:url("https://cdn.glitch.global/d08021c1-a129-48a2-a296-20cdcf78faa1/wave%20(2).svg?v=1685473175761");
-background-color:silver;
+background-color:black;
 width:1335px;
 height:250px;
 margin-top:1100px;
