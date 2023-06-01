@@ -38,9 +38,9 @@ h1{text-align:center;
 
 img.botones {
 height:250px;
-width:300px;
+width:250px;
 margin:30px;
-float: left;
+
 }
 img.logos{
 height:150px;
@@ -84,16 +84,21 @@ margin-top:1100px;
 
 }
 div.fotos{
-margin-top:100%;
+margin-top:800px;
 
 }
 div.imgfotos{
 display: flex;
 border:1px solid black;
-width:90%;
+width:100%;
 }
 
-
+div.imgfotos2{
+display: flex;
+border:1px solid black;
+width:100%;
+height:50
+}
 
 
 
