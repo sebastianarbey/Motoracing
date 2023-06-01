@@ -1,6 +1,7 @@
 
-}
+
 body {border: 1px solid black ;
+width:100%;
  margin:auto;
 padding:auto;
 font-family: ;
@@ -11,7 +12,7 @@ background-image:url("https://cdn.glitch.global/d08021c1-a129-48a2-a296-20cdcf78
 background-size: 100%;
 background-repeat: no-repeat;
 height:900px;
-width:1335px;
+width:100%;
 
 }
 
@@ -27,6 +28,7 @@ div.categorias{
 color:white;
 text-align:center;
 margin:200px;
+width:100%;
 }
 
 
@@ -85,6 +87,8 @@ margin-top:800px;
 
 }
 
+@media screen and(max-width: 1000px){
 
+}
 
  
