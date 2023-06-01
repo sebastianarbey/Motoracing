@@ -13,7 +13,7 @@ background-size: 100%;
 background-repeat: no-repeat;
 height:900px;
 width:100%;
-
+margin-bottom:120px;
 }
 
 div.superior{
@@ -74,32 +74,28 @@ color:white;
 
 }
 
+div.imgfotos{
+justify-content:center;
+text-align:center;
+display: flex;
+width:100%;
+height:300px;
+}
+
+div.imgfotos2{
+justify-content:center;
+text-align:center;
+display: flex;
+width:100%;
+height:50px;
+}
 
 footer{
  background-image:url("https://cdn.glitch.global/d08021c1-a129-48a2-a296-20cdcf78faa1/wave%20(2).svg?v=1685473175761");
 background-color:black;
 width:100%;
 height:250px;
-margin-top:1100px;
-
+margin-top:500px;
 }
-div.fotos{
-margin-top:800px;
-
-}
-div.imgfotos{
-display: flex;
-border:1px solid black;
-width:100%;
-}
-
-div.imgfotos2{
-display: flex;
-border:1px solid black;
-width:100%;
-height:50
-}
-
-
 
  
