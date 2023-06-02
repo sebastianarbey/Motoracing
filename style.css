@@ -11,10 +11,10 @@ div.container{
 background-image:url("https://cdn.glitch.global/d08021c1-a129-48a2-a296-20cdcf78faa1/73d31f1f-84ef-4ff8-b19b-cbe93cce97bb.image.png?v=1685541736167");
 background-size: 100%;
 background-repeat: no-repeat;
-height:900px;
+height:1000px;
 width:100%;
-margin-bottom:120px;
 box-shadow: 15px 5px 10px red;
+
 }
 
 div.superior{
@@ -84,9 +84,11 @@ text-align:center;
 display: flex;
 width:100%;
 height:300px;
+
 }
 
 div.imgfotos2{
+margin-top:30px;
 justify-content:center;
 text-align:center;
 display: flex;
