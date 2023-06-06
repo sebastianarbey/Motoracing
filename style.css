@@ -13,6 +13,7 @@ font-family: ;
 
 div.container{
 background-image:url("https://cdn.glitch.global/d08021c1-a129-48a2-a296-20cdcf78faa1/73d31f1f-84ef-4ff8-b19b-cbe93cce97bb.image.png?v=1685541736167");
+background-repeat: no-repeat;
 background-size: 100%;
 height:850px;
 width:100%;
@@ -22,6 +23,7 @@ display:flex;
 div.logos{
 width:220px;
 height:150px;
+
 }
 
 div.unoh{
@@ -72,11 +74,12 @@ color:white;
 
 
 footer{
+background-size: 100%;
 background-color:black;
 width:100%;
 height:250px;
 
-
+margin-top:50px;
 }
 
 div.padre{
@@ -88,6 +91,7 @@ width:100%;
 height:650px;
 justify-content:center;
 margin-top:100px;
+background-size: 100%;
 }
 div.fotos{
 width:500px;
@@ -97,6 +101,6 @@ margin:10px;
 }
 
 h2.categ{
-margin:top
+margin-top:50px;
 }
 
