@@ -15,15 +15,10 @@ height:1000px;
 width:100%;
 }
 
-
-
-div.categorias{
-color:white;
-text-align:center;
-margin:auto;
-width:100%;
+div.logos{border:10px solid black;
+width:220px;
+height:150px;
 }
-
 
 h1{text-align:center;
 
@@ -41,21 +36,6 @@ border-radius: 25px 25px 25px 25px;
 img.logos{
 height:150px;
   width:200px;}
-
-
-
-
-h2.blogs{
-text-align:center;
-color:white;
-border:1px solid black;
-margin-left:200px;
-width:150px;
-margin-botton:300
-}
-
-
-
 
 h3{
 text-align:center;
