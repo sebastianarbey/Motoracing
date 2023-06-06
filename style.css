@@ -9,7 +9,6 @@ font-family: ;
 
 div.container{
 background-image:url("https://cdn.glitch.global/d08021c1-a129-48a2-a296-20cdcf78faa1/73d31f1f-84ef-4ff8-b19b-cbe93cce97bb.image.png?v=1685541736167");
-
 background-size: 100%;
 background-repeat: no-repeat;
 height:1000px;
@@ -53,14 +52,17 @@ width:200px;
 
 }
 nav.blogs{
-t:center;
+border:15px solid black;
+margin:0px;
+padding:2px;
 width:480px;
-padding:50px;
+
+
 
 }
 h2.blogs{
 border:1px solid black;
-margin:auto;
+margin:0px;
 text-align:center;
 width:150px;
 float: left;
