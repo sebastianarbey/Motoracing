@@ -72,7 +72,6 @@ color:white;
 
 
 footer{
-
 background-color:black;
 width:100%;
 height:250px;
@@ -81,16 +80,12 @@ margin-top:500px;
 }
 
 div.padre{
-border:10px solid black;
+border:1px solid black;
 width:100%;
-margin-bottom:200px;
 height:650px;
-display:flex;
-justify-content: center;
 
 }
 div.fotos{
-margin:auto;
 
 }
 
