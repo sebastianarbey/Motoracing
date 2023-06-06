@@ -14,7 +14,6 @@ font-family: ;
 div.container{
 background-image:url("https://cdn.glitch.global/d08021c1-a129-48a2-a296-20cdcf78faa1/73d31f1f-84ef-4ff8-b19b-cbe93cce97bb.image.png?v=1685541736167");
 background-size: 100%;
-background-repeat: no-repeat;
 height:500px;
 width:100%;
 display:flex;
@@ -76,7 +75,6 @@ color:white;
 }
 
 div.imgfotos{
-
 text-align:center;
 display: flex;
 width:100%;
@@ -87,7 +85,6 @@ margin-top:100px;
 
 div.imgfotos2{
 margin-top:30px;
-
 text-align:center;
 display: flex;
 width:100%;
@@ -106,8 +103,8 @@ margin-top:500px;
 div.padre{
 margin-top:50px;
 width:99%;
-margin:10px;
 margin-bottom:200px;
+margin-left
 }
 
 
