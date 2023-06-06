@@ -13,11 +13,20 @@ background-size: 100%;
 background-repeat: no-repeat;
 height:1000px;
 width:100%;
+display:flex;
 }
 
 div.logos{border:10px solid black;
 width:220px;
 height:150px;
+}
+
+div.unoh{
+margin-left:500px;
+width:500px;
+height:150px;
+border:10px solid white;
+text-align:column;
 }
 
 h1{text-align:center;
@@ -78,4 +87,9 @@ margin-bottom:200px;
 
 section.sesionesc{
 text-align:center;
+}
+
+h2{
+text-align:center;
+color:white;
 }
