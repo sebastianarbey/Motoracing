@@ -68,22 +68,8 @@ height:150px;
 h3{
 text-align:center;
 color:white;
-
 }
 
-div.imgfotos{
-border:10px solid black;
-display: flex;
-width:1000px;
-height:300px;
-}
-
-div.imgfotos2{
-border:10px solid black;
-display: flex;
-width:1000px;
-height:300px;
-}
 
 footer{
 
@@ -96,13 +82,16 @@ margin-top:500px;
 
 div.padre{
 border:10px solid black;
-margin-top:50px;
-width:99%;
+width:100%;
 margin-bottom:200px;
 height:650px;
 display:flex;
 justify-content: center;
-Flex-grow
+
+}
+div.fotos{
+margin:auto;
+
 }
 
 
