@@ -22,12 +22,31 @@ height:150px;
 }
 
 div.unoh{
+color:white;
 margin-left:500px;
 width:500px;
 height:150px;
 border:10px solid white;
 text-align:column;
+
 }
+
+ul{
+list-style: none;
+text-align:center;
+}
+li{
+font-size:20px;
+display:inline-block;
+margin:10px ;
+padding-left:10px;
+padding-right:10px;
+}
+
+
+
+
+
 
 h1{text-align:center;
 
@@ -89,7 +108,3 @@ section.sesionesc{
 text-align:center;
 }
 
-h2{
-text-align:center;
-color:white;
-}
