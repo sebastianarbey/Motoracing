@@ -1,4 +1,8 @@
-
+*{
+box-sizing: border box;
+margin:0;
+padding:0;
+}
 
 body {border: 1px solid black ;
 width:100%;
@@ -100,11 +104,11 @@ margin-top:500px;
 }
 
 div.padre{
-margin:150px;
+margin-top:50px;
+width:99%;
+margin:10px;
 margin-bottom:200px;
 }
 
-section.sesionesc{
-text-align:center;
-}
+
 
