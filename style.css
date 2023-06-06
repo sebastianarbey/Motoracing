@@ -20,10 +20,24 @@ width:100%;
 display:flex;
 }
 
-ul.nav{
+ul.nav a {
 background-color:red;
 text-decoration:none;
 list-style:none;
+color:white;
+padding:10px 15px;
+display:block;
+}
+ li{
+float:left;
+}
+.nav li ul{
+display:none;
+position:absolute;
+min-width:140px;
+}
+.nav li:hover > ul{
+display:block;
 }
 
 
