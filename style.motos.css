@@ -8,15 +8,15 @@ border:10px solid black;
 main.divs{
 display:flex;
 flex-direction:column;
-width:100%;
-border:1px solid red;
+width:99.5%;
+border:1px solid black;
 
 
 
 }
 div.segundo{
 border:10px solid black;
-display:flex;
+display:flex; 
 flex-direction:column;
 width:250px;
 height:500px;
