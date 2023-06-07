@@ -8,3 +8,10 @@ width:250px;
 height:200px;
 border:10px solid black;
 }
+section.pantalla{
+border:10px solid red;
+width:250px;
+height:200px;
+margin-left:500px;
+
+}
