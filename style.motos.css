@@ -1,3 +1,8 @@
+body{
+background-color:#E0B1AE;
+}
+
+
 header.principal{
 text-align:center;
 border:10px solid black;
@@ -10,14 +15,15 @@ background-color:#E0B1AE;
 main.divs{
 display:flex;
 flex-direction:column;
-width:99.5%;
+width:80%;
 height:650px;
 border:1px solid black;
+margin-left:200px;
 
 
 
 }
-div.segundo{
+section.segundo{
 display:flex; 
 flex-direction:column;
 width:250px;
