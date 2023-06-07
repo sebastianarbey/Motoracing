@@ -1,3 +1,10 @@
 header.principal{
-border-10px solid black;
+border:10px solid black;
+}
+
+div.container{
+margin-top:30px;
+width:250px;
+height:200px;
+border:10px solid black;
 }
