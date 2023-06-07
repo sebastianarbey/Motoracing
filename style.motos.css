@@ -8,7 +8,15 @@ width:250px;
 height:200px;
 border:10px solid black;
 }
+div.padre{
+border:10px solid red;
+width:250px;
+height:1000px;
+margin:0px;
+background-color: coral;
+}
 section.pantalla{
+margin:0px;
 border:10px solid red;
 width:250px;
 height:200px;
