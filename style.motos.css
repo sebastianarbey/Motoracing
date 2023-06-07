@@ -12,18 +12,18 @@ background-color:#E0B1AE;
 
 
 
-main.divs{
-display:flex;
-flex-direction:column;
-width:80%;
+aside.divs{
+grid-
+float:right;
+width:60%;
 height:650px;
 border:1px solid black;
-margin-left:200px;
-
+background-color:blue;
 
 
 }
 section.segundo{
+
 display:flex; 
 flex-direction:column;
 width:250px;
