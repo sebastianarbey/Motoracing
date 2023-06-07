@@ -110,8 +110,10 @@ margin-top:100px;
 background-size: 100%;
 }
 div.fotos{
-width:400px;
-height:300px;
+border:1px solid silver;
+border-radius:20px 20px 20px 20px;
+width:300px;
+height:500px;
 text-align:center;
 margin:10px;
 
@@ -131,6 +133,9 @@ color:white;
 }
 
 
-
+button.compras{
+width:25px;
+border:15px solid black;
+}
 
 
