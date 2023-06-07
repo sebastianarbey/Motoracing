@@ -9,24 +9,28 @@ main.divs{
 display:flex;
 flex-direction:column;
 width:99.5%;
+height:650px;
 border:1px solid black;
 
 
 
 }
 div.segundo{
-border:10px solid black;
 display:flex; 
 flex-direction:column;
 width:250px;
-height:500px;
+height:650px;
 
 
 }
 div.hijos{
-border:5px solid black;
+border:5px solid red;
 width:240px;
-height:200px;
+height:300px;
 margin:0;
 }
 
+img.img__hijo{
+width:240px;
+height:153px;
+}
