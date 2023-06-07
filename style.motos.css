@@ -13,6 +13,10 @@ margin-top:-10px;
 main.divs{
 display:flex;
 flex-direction:column;
+width:270px;
+border:10px solid red;
+margin:0px;
+
 }
 div.segundo{
 
