@@ -16,10 +16,16 @@ margin:0px;
 background-color: coral;
 }
 section.pantalla{
-margin:0px;
+margin:0px 0px 0px 0px;
+padding:0px;
 border:10px solid red;
 width:250px;
 height:200px;
+}
+div.section{
+width:250px;
+height:200px;
+border:10px solid black;
+margin:0px;
 margin-left:500px;
-
 }
