@@ -31,16 +31,18 @@ display:block;
  li{
 float:left;
 margin:3px;
-background-color:black;
 }
 .nav li ul{
 display:none;
 position:absolute;
 min-width:140px;
+
 }
 .nav li:hover > ul{
 display:block;
 }
+
+
 
 
 div.logos{
