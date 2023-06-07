@@ -14,3 +14,13 @@ main.divs{
 display:flex;
 flex-direction:column;
 }
+div.segundo{
+
+border:10px solid black;
+display:flex;
+flex-direction:column;
+width:250px;
+height:200px;
+margin-left:300px;
+
+}
