@@ -1,5 +1,7 @@
 header.principal{
+text-align:center;
 border:10px solid black;
+background-color:#E0B1AE;
 }
 
 
@@ -33,4 +35,14 @@ margin:0;
 img.img__hijo{
 width:240px;
 height:153px;
+}
+
+div.contenido{
+border:80px solid red;
+width:240px;
+height:153px;
+margin-left:400px;
+}
+footer{text-align:center;
+
 }
