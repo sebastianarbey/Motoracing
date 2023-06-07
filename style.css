@@ -122,10 +122,14 @@ h2.categ{
 margin-top:50px;
 }
 
-span.iconos{
+div.iconos{
+margin-top:20px;
+width:70%;
+height:25px;
 border:5px solid red;
 color:white;
 }
+
 
 
 
