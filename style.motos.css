@@ -5,7 +5,7 @@ background-color:#E0B1AE;
 
 header.principal{
 text-align:center;
-border:10px solid black;
+border:5px solid red;
 background-color:#E0B1AE;
 }
 
@@ -16,13 +16,17 @@ aside.divs{
 float:right;
 width:80%;
 height:650px;
-border:1px solid black;
-background-color:blue;
-
-
+border:3px solid black;
+background-color:silver;
 }
-section.segundo{
 
+div.ventas{
+border:3px solid black;
+width:80px;
+height:50px;
+}
+
+section.segundo{
 display:flex; 
 flex-direction:column;
 width:200px;
