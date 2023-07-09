@@ -1,12 +1,13 @@
 body{
-background-color:#E0B1AE;
+background-color:#303030;
 }
 
 
 header.principal{
 text-align:center;
-border:5px solid red;
-background-color:#E0B1AE;
+border:5px solid #303030;
+background-color:#404040;
+color:white;
 }
 
 
@@ -16,17 +17,19 @@ aside.divs{
 float:right;
 width:79%;
 height:650px;
-border:3px solid black;
-background-color:silver;
+border:0px solid silver;
+background-color: #303030;
 display:flex;
 flex-wrap: wrap;
+justify-content:center;
 }
 
 div.ventas{
-margin:13px;
-border:3px solid black;
+margin:10px;
+border:1px solid silver;
 width:220px;
 height:140px;
+background-color:#e2e3ea;
 
 }
 
@@ -39,14 +42,15 @@ height:650px;
 
 }
 div.hijos{
-border:5px solid red;
-width:250px;
+border:0px solid silver;
+width:240px;
 height:300px;
 margin:0;
+background-color:silver;
 }
 
 img.img__hijo{
-width:250px;
+width:240px;
 height:153px;
 }
 
